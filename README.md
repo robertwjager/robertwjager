@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/c1y593B.png" style="width: 100%;">
+<img src="https://i.imgur.com/Q2pJox9.png" style="width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Robert Jager</h1>
 <h3 align="center">Java Development Trainee from the Netherlands</h3>
