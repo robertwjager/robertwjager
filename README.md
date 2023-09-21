@@ -7,11 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertwjager&label=Profile%20views&color=0e75b6&style=flat" alt="robertwjager" /> </p>
 
 - 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **html, css, java**
-
 - 📫 How to reach me **jager.r.w@gmail.com**
-
 - ⚡ Fun fact **: I love anything AI generated**
 
 <h3 align="left">Connect with me:</h3>
