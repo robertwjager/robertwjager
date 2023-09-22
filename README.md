@@ -18,7 +18,7 @@ I'm always eager to learn, and make new connections in the vast world of tech. F
 
 ## Projects
 
-Java:<br>
+Java:<br> https://github.com/robertwjager/Minesweeper<br>
 HTML/CSS:<br>
 Javascript:<br>
 https://github.com/robertwjager/DogGlossary<br>
