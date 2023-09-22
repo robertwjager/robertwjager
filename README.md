@@ -18,7 +18,12 @@ I'm always eager to learn, and make new connections in the vast world of tech. F
 
 ## Projects
 
-Stay tuned for exciting projects I'll be working on and have worked on in the past.
+Java:<br>
+HTML/CSS:<br>
+Javascript:<br>
+https://github.com/robertwjager/DogGlossary<br>
+React:<br>
+
 
 ## Fun Facts
 
