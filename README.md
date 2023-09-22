@@ -20,6 +20,7 @@ I'm always eager to learn, and make new connections in the vast world of tech. F
 
 Java:<br> https://github.com/robertwjager/Minesweeper<br>
 https://github.com/robertwjager/SimpleChattyBot <br>
+https://github.com/robertwjager/CoffeeMachine <br>
 HTML/CSS:<br>
 Javascript:<br>
 https://github.com/robertwjager/DogGlossary<br>
