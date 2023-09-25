@@ -23,6 +23,7 @@ Java:<br>
 https://github.com/robertwjager/Minesweeper<br>
 https://github.com/robertwjager/SimpleChattyBot <br>
 https://github.com/robertwjager/CoffeeMachine <br>
+https://github.com/robertwjager/DesktopConnectFour <br>
 
 HTML/CSS:<br>
 Javascript:<br>
